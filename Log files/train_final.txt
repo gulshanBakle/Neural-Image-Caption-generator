@@ -1,0 +1,8 @@
+Epoch [1/4], Step [1/6471], Loss: 9.1995,Val loss: 9.0523, Perplexity: 9892.2486
+Epoch [1/4], Step [2/6471], Loss: 9.0404,Val loss: 8.8593, Perplexity: 8437.2038
+Epoch [1/4], Step [3/6471], Loss: 8.8943,Val loss: 8.5988, Perplexity: 7290.1089
+Epoch [1/4], Step [4/6471], Loss: 8.6114,Val loss: 8.2441, Perplexity: 5493.8857
+Epoch [1/4], Step [5/6471], Loss: 8.2693,Val loss: 7.7351, Perplexity: 3902.0397
+Epoch [1/4], Step [6/6471], Loss: 7.7457,Val loss: 7.0181, Perplexity: 2311.5083
+Epoch [1/4], Step [7/6471], Loss: 7.0406,Val loss: 6.2494, Perplexity: 1142.0969
+Epoch [1/4], Step [8/6471], Loss: 6.3605,Val loss: 5.6301, Perplexity: 578.5175
